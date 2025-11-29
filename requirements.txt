@@ -1,0 +1,6 @@
+
+disnake==2.7.0
+pillow==8.4.0
+sqlite3==3.35.4
+aiohttp==3.8.1
+rich==10.12.0
